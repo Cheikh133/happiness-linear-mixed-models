@@ -33,14 +33,14 @@ This project was developed using:
 
 
 ---
-
 ## 🧑‍💻 Author
 
 **Cheikh LO**  
+*Data Scientist*
 
-*Data Scientist*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cheikh%20LO-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/cheikh-lo-531701193/)  
+[![GitHub](https://img.shields.io/badge/GitHub-cheikh133-black?logo=github&style=flat-square)](https://github.com/cheikh133)
 
-Connect: [LinkedIn](https://www.linkedin.com/in/cheikh-lo-531701193/) | [GitHub](https://github.com/cheikh133)
 ---
 
 ## 📄 License
