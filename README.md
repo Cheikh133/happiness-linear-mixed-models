@@ -2,7 +2,10 @@
 
 This project applies **Linear Mixed Models (LMM)** to the **World Happiness Report** data (2015–2023), modeling both **fixed effects** (GDP, life expectancy, etc.) and **random effects** (country-specific trends and intercepts).
 
+**This project is one of the first applications of Linear Mixed Models to World Happiness Report data, accounting for cross-country heterogeneity and temporal structure in longitudinal data.**
+
 ➡️ **Live site**: [View full analysis](https://cheikh133.github.io/happiness-linear-mixed-models/)
+
 
 
 ---
