@@ -1,0 +1,16 @@
+# R / RStudio files
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# Quarto output
+_site/
+docs/
+
+# HTML preview
+README.html
+
+# System files
+.DS_Store
+Thumbs.db

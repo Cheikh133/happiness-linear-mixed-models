@@ -1,0 +1,24 @@
+---
+title: "Happiness Scores – Mixed Models"
+format:
+  html:
+    page-layout: full
+    toc: false
+    sidebar: false
+---
+
+![](figures/lmm.png){width="100%"}
+
+<div class="home-text">
+
+This project applies **Linear Mixed Models (LMM)** to analyze the evolution of **happiness scores** across countries and years, using data from the World Happiness Report.
+
+We distinguish two model components: **Fixed effects** and **Random effects**.
+
+This structure captures both global trends and country-level variations over time.
+
+<p style="margin-top:2rem; text-align:center">
+➡️ **[View full analysis](analysis.qmd)**
+</p>
+
+</div>
