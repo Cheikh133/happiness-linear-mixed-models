@@ -8,15 +8,13 @@ This project applies **Linear Mixed Models (LMM)** to the **World Happiness Repo
 
 
 
----
-
 ## Model Structure
 
 The figure below illustrates the model's structure, highlighting both **fixed** and **random** effects:
 
 ![LMM structure](analysis/figures/lmm.png)
 
----
+
 
 ## Tools & Libraries
 
@@ -32,7 +30,6 @@ This project was developed using:
 - **GitHub Pages**: For hosting the final report
 
 
----
 ## Author
 
 **Cheikh LO**  
@@ -41,10 +38,8 @@ This project was developed using:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cheikh%20LO-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/cheikh-lo-531701193/)  
 [![GitHub](https://img.shields.io/badge/GitHub-cheikh133-black?logo=github&style=flat-square)](https://github.com/cheikh133)
 
----
+
 
 ## License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
-
