@@ -1,4 +1,4 @@
-# 📈 Happiness Scores – Linear Mixed Models
+# Happiness Scores – Linear Mixed Models
 
 This project applies **Linear Mixed Models (LMM)** to the **World Happiness Report** data (2015–2023), modeling both **fixed effects** (GDP, life expectancy, etc.) and **random effects** (country-specific trends and intercepts).
 
@@ -10,7 +10,7 @@ This project applies **Linear Mixed Models (LMM)** to the **World Happiness Repo
 
 ---
 
-## 📊 Model Structure
+## Model Structure
 
 The figure below illustrates the model's structure, highlighting both **fixed** and **random** effects:
 
@@ -18,7 +18,7 @@ The figure below illustrates the model's structure, highlighting both **fixed** 
 
 ---
 
-## 🛠 Tools & Libraries
+## Tools & Libraries
 
 This project was developed using:
 
@@ -33,7 +33,7 @@ This project was developed using:
 
 
 ---
-## 🧑‍💻 Author
+## Author
 
 **Cheikh LO**  
 *Data Scientist*
@@ -43,7 +43,7 @@ This project was developed using:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
