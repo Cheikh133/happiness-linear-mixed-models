@@ -4,7 +4,7 @@ This project applies **Linear Mixed Models (LMM)** to the **World Happiness Repo
 
 **This project is one of the first applications of Linear Mixed Models to World Happiness Report data, accounting for cross-country heterogeneity and temporal structure in longitudinal data.**
 
-➡️ **Live site**: [View full analysis](https://cheikh133.github.io/happiness-linear-mixed-models/)
+➡️ **Live site**: <a href="https://cheikh133.github.io/happiness-linear-mixed-models/" target="_blank" rel="noopener noreferrer">View full analysis</a>
 
 
 
