@@ -4,11 +4,9 @@ This project applies **Linear Mixed Models (LMM)** to the **World Happiness Repo
 
 **This project is one of the first applications of Linear Mixed Models to World Happiness Report data, accounting for cross-country heterogeneity and temporal structure in longitudinal data.**
 
-➡️ **Live site**: [View full analysis](https://cheikh133.github.io/happiness-linear-mixed-models/)
+➡️ **Live site**: <a href="https://cheikh133.github.io/happiness-linear-mixed-models/" target="_blank" rel="noopener noreferrer">View full analysis</a>
 
 
-
----
 
 ## Model Structure
 
@@ -16,7 +14,7 @@ The figure below illustrates the model's structure, highlighting both **fixed** 
 
 ![LMM structure](analysis/figures/lmm.png)
 
----
+
 
 ## Tools & Libraries
 
@@ -32,7 +30,6 @@ This project was developed using:
 - **GitHub Pages**: For hosting the final report
 
 
----
 ## Author
 
 **Cheikh LO**  
@@ -41,8 +38,10 @@ This project was developed using:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cheikh%20LO-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/cheikh-lo-531701193/)  
 [![GitHub](https://img.shields.io/badge/GitHub-cheikh133-black?logo=github&style=flat-square)](https://github.com/cheikh133)
 
----
+
 
 ## License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+
